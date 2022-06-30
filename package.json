@@ -11,6 +11,7 @@
 	"author": "",
 	"license": "ISC",
 	"devDependencies": {
+		"base64url": "^3.0.1",
 		"nodemon": "^2.0.18"
 	}
 }
