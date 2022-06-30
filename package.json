@@ -1,0 +1,16 @@
+{
+	"name": "jwt-crypto",
+	"version": "1.0.0",
+	"description": "",
+	"main": "server.js",
+	"scripts": {
+		"genKeyPairs": "node ./JWT/genKeyPairs.js",
+		"iss-ver-jwt-dev": "nodemon ./JWT/issue&verifyJwt.js"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"devDependencies": {
+		"nodemon": "^2.0.18"
+	}
+}
